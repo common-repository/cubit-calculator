@@ -1,0 +1,41 @@
+# Copyright (C) 2024 Paul Faulkner
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Cubit Calculator Number Grid 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/cubit-calculator\n"
+"POT-Creation-Date: 2024-01-26T09:40:10+00:00\n"
+"PO-Revision-Date: 2024-01-26 09:41+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Domain: cubit-calculator\n"
+
+#. Plugin Name of the plugin
+msgid "Cubit Calculator Number Grid"
+msgstr "Cubit Calculator Number Grid"
+
+#. Plugin URI of the plugin
+msgid "https://cubit-calculator.one/"
+msgstr ""
+
+#. Description of the plugin
+msgid "Add the Royal Cubit calculator number grid to your site as a shortcode"
+msgstr "Add the Royal Cubit calculator number grid to your site as a shortcode"
+
+#. Author of the plugin
+msgid "Paul Faulkner"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://headwall-hosting.com/"
+msgstr ""
+
+#: includes/shortcode-number-grid.php:23
+msgid "For more information"
+msgstr "For more information"
